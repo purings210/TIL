@@ -66,4 +66,3 @@
   - `git push origin master`
 
 - commit history를 원격 저장소에 업로드
-
